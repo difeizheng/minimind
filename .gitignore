@@ -8,3 +8,4 @@ minimind-3/
 scripts/minimind-3-tmp/
 dataset/*.jsonl
 checkpoints/
+.venv/
