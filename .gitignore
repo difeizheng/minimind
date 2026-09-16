@@ -4,3 +4,7 @@ __pycache__/
 out
 website/
 docs-minimind/
+minimind-3/
+scripts/minimind-3-tmp/
+dataset/*.jsonl
+checkpoints/
